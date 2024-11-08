@@ -6,9 +6,9 @@
 ---
 
 ### 🚀 Sobre Mim
-> - 📘 **Estudante de Engenharia de Software** | Explorando e criando soluções com tecnologia.
-> - 💡 Interessado em projetos que trazem impacto real e resolvem problemas do cotidiano.
-> - 🌱 Aprendendo continuamente e aprimorando minhas habilidades em **JavaScript**, **HTML**, **CSS**, **Java**, **SQL** e **C**.
+- 📘 **Estudante de Engenharia de Software** | Explorando e criando soluções com tecnologia.
+- 💡 Interessado em projetos que trazem impacto real e resolvem problemas do cotidiano.
+- 🌱 Aprendendo continuamente e aprimorando minhas habilidades em **JavaScript**, **HTML**, **CSS**, **Java**, **SQL** e **C**.
 
 ---
 
@@ -38,8 +38,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira10/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasjlopesferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lucasjlopesferreira@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Lucas-Ferreira11?label=follow&style=social)](https://github.com/Lucas-Ferreira11)
-
-
----
-
-🌍 **"Transformando ideias em código, uma linha de cada vez!"** 🌍
