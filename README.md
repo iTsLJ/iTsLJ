@@ -27,10 +27,15 @@
 
 
 ---
-
-### 📈 Estatísticas do GitHub
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Ferreira11&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ferreira11&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Ferreira11/Lucas-Ferreira11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Ferreira11/Lucas-Ferreira11/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lucas-Ferreira11/Lucas-Ferreira11/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 
