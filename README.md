@@ -1,7 +1,3 @@
-Aqui está a versão atualizada do seu README:
-
----
-
 # 👋 Olá! Eu sou o Lucas Ferreira
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Ferreira&color=0d1117&style=for-the-badge&logo=GitHub&logoColor=f0883e&labelColor=58a6ff" alt="Static GitHub">
 
