@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Lucas Ferreira
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Ferreira&color=0d1117&style=for-the-badge&logo=GitHub&logoColor=f0883e&labelColor=58a6ff" alt="Static GitHub">
 
-🎓 Estudante de **Engenharia de Software** e apaixonado por desenvolvimento e tecnologia! Sempre buscando aprender e me aprimorar, e pronto para enfrentar novos desafios no mundo da programação.
+🎓 Estudante de **Engenharia de Software**, sempre em busca de inovação e crescimento no universo da tecnologia! Motivado a aprender constantemente e a superar desafios no mundo da programação.
 
 ---
 
