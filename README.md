@@ -26,6 +26,7 @@
 ---
 
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTsLJ&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ferreira11&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iTsLJ/iTsLJ/output/github-contribution-grid-snake-dark.svg">
