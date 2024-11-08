@@ -6,9 +6,9 @@
 ---
 
 ### 🚀 Sobre Mim
-- 📘 **Estudante de Engenharia de Software** | Explorando e criando soluções com tecnologia.
+- 💻 Explorando o front-end e o back-end | Em constante aprendizado para desenvolver soluções completas e eficientes.
 - 💡 Interessado em projetos que trazem impacto real e resolvem problemas do cotidiano.
-- 🌱 Aprendendo continuamente e aprimorando minhas habilidades em **JavaScript**, **HTML**, **CSS**, **Java**, **SQL** e **C**.
+- 🌱 Aprendendo continuamente e aprimorando minhas habilidades em **Java**, **C**, **JavaScript**, **HTML**, **CSS**, e **SQL**.
 
 ---
 
