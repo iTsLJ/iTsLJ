@@ -1,14 +1,15 @@
 # 👋 Olá! Eu sou o Lucas Ferreira
 <img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Ferreira&color=0d1117&style=for-the-badge&logo=GitHub&logoColor=f0883e&labelColor=58a6ff" alt="Static GitHub">
 
-🎓 Estudante de **Engenharia de Software**, sempre em busca de inovação e crescimento no universo da tecnologia! Motivado a aprender constantemente e a superar desafios no mundo da programação.
+🎓 Graduando em Engenharia de Software pela PUC Minas, com experiência acadêmica e prática em desenvolvimento de sistemas com foco em eficiência, sustentabilidade e escalabilidade. Apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados no universo da programação.
 
 ---
 
 ### 🚀 Sobre Mim
-- 💻 Explorando o front-end e o back-end | Em constante aprendizado para desenvolver soluções completas e eficientes.
+- 💻Atuação em projetos full stack, com domínio em Java, JavaScript, C/C++ e frameworks como Spring Boot, Node.js e React.js.
+- 🔧 Experiência em desenvolvimento de APIs REST, integração com bancos de dados SQL e boas práticas de versionamento com Git.
 - 💡 Interessado em projetos que trazem impacto real e resolvem problemas do cotidiano.
-- 🌱 Aprendendo continuamente e aprimorando minhas habilidades em **Java**, **C**, **JavaScript**, **HTML**, **CSS**, e **SQL**.
+- 🌱  Em constante aprendizado e evolução, buscando aplicar soluções tecnológicas a problemas reais e complexos.
 
 ---
 
