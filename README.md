@@ -27,12 +27,6 @@
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iTsLJ&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTsLJ&&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0883e)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iTsLJ/iTsLJ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iTsLJ/iTsLJ/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iTsLJ/iTsLJ/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira10/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasjlopesferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lucasjlopesferreira@gmail.com)
